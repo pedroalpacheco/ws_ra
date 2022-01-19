@@ -1,0 +1,23 @@
+{
+  "name": "ws_ra",
+  "version": "1.0.0",
+  "description": "Webscraping de reclamações no site reclame-aqui",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedroalpacheco/ws_ra.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pedroalpacheco/ws_ra/issues"
+  },
+  "homepage": "https://github.com/pedroalpacheco/ws_ra#readme",
+  "dependencies": {
+    "puppeteer": "^13.1.1"
+  }
+}
